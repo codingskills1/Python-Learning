@@ -1,0 +1,6 @@
+print("my name is MohammadHossein Ghanbari")
+print("Hello, World")
+print("that's great")
+print("I will be a \n computer programmer")
+print("this is a quetation\" mark")
+print("this is a backslash")
